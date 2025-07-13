@@ -5,8 +5,11 @@ Link: https://github.com/ColorlibHQ/AdminLTE/releases/tag/v3.2.0
 Version: 3.2.0 
 Tested on: tuition.staging-rdegi.com
 CVE:
+
 Author Github: github.com/SHN011
+
 Instagram:@kabil__esh
+
 Description :
 This submission details an authentication bypass and privilege escalation vulnerability in AdminLTE 3.2.0. By exploiting a specific sequence of actions involving local account creation and URL manipulation, an attacker can gain unauthorized access to the administrative panel. Proof of Concept   
 Navigate to the AdminLTE 3.2.0 instance: https://tuition.staging-rdegi.com/website/AdminLTE-3.2.0/index.php   
